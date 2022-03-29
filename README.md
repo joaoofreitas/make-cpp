@@ -9,7 +9,7 @@ Mainly created this repository to serve as template to my computer science colle
 
 #### Usage
 
-##### Initialize a new projecy
+##### Initialize a new project
 
 `user@host make init`
 
